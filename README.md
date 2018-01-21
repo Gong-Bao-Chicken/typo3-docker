@@ -14,3 +14,7 @@ Shut down:
  ```
  
  In order to fill the database with data when starting the containers create a `data` folder and add a `dump.sql`. It will be imported once the database was created.
+
+---- 
+
+The Dockerfile is based on the dockerfile created by: Martin Helmich. https://github.com/martin-helmich/docker-typo3
