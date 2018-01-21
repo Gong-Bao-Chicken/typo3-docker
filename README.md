@@ -17,4 +17,5 @@ Shut down:
 
 ---- 
 
-The Dockerfile is based on the dockerfile created by: Martin Helmich. https://github.com/martin-helmich/docker-typo3
+The Dockerfile is based on the dockerfile created by: 
+Martin Helmich. https://github.com/martin-helmich/docker-typo3
