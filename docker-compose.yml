@@ -2,6 +2,7 @@ version: "3"
 
 services:
   db:
+    hostname: typodb
     image: mysql:latest
     container_name: mysql-typo
     restart: always
